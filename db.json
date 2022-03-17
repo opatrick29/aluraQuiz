@@ -1,0 +1,165 @@
+{
+    "bg": "https://imgur.com/qNrf5jr.jpg",
+    "title": "Quiz sobre desenhos antigos",
+    "description": "Teste os seus conhecimentos sobre os desenhos que marcaram sua infância e adolescência.",
+    "questions": [
+      {
+        "image": "https://caidamudanca.files.wordpress.com/2014/12/tumblr_me02wnuunz1rn72x1o1_500.gif?w=636.gif",
+        "title": "Qual o nome desse desenho?",
+        "description": "Dica: Ele passou na TV Cultura nos anos 2000",
+        "answer": 2,
+        "alternatives": [
+          "Rupert",
+          "Arthur",
+          "O Pequeno Urso",
+          "Animais do Bosque dos Vinténs"
+          
+        ],
+        "infoGif": "https://64.media.tumblr.com/b462373ce8d09262b43e819d5fff7e37/b9425df40296934c-ce/s500x750/448ed6680589d3f96e19a476529aebc30a567232.gifv",
+        "information": "O Pequeno Urso e seus amigos, incluindo Coruja, Galinha, Gato e Emily, uma garota humana que mora nas proximidades, brincam juntos na floresta, contando com sua imaginação para proporcionar-lhes muitas aventuras."
+      },
+      {
+        "image": "https://64.media.tumblr.com/b51aa61be8c1df8deaa918f31d7b8621/75cffe01c7be2fb4-0c/s400x600/dab109234494ab8bbecdff166b7ed44d71be6391.gifv",
+        "title": "Qual o nome dos dois camundongos, de Os Camundongos Aventureiros ?",
+        "description": "Sem dica dessa vez...",
+        "answer": 1,
+        "alternatives": [
+           "Julia e Antonio",
+           "Emily e Alexander",
+           "Emily e Alonso",
+           "Milena e Pablo"
+        ],
+        "infoGif": "https://media.giphy.com/media/wfcC5ublzL7d7UhDoa/giphy.gif",
+        "information": "Emily, a ratinha do campo, e seu primo Alexander, o rato da cidade, vivem as mais incríveis aventuras. Percorrendo o mundo visitando parentes e fazendo amigos, eles encontram inventores famosos, compositores, artistas e até realeza."
+      },
+      {
+        "image": "https://cdn.ocp.news/2016/03/lucas-silva-e-silva.gif",
+        "title": "\"Alô? Esta é mais uma edição do diário de bordo de _________. Falando diretamente do mundo da lua, onde tudo pode acontecer…\"\n Qual o nome desse personagem?",
+        "description": "Essa é para quem é das antigas hein",
+        "answer": 0,
+        "alternatives": [
+           "Lucas Silva & Silva",
+           "Nino da Silva",
+           "Lucas Silvia & Silva",
+           "Luciano Silva & Silvia"
+        ],
+        "infoGif": "http://pa1.narvii.com/6622/164d586dd78922982c449ef3f2febbe62b424cd5_00.gif",
+        "information": "Mundo da Lua foi um seriado brasileiro produzido e exibido pela TV Cultura, criado por Flávio de Souza e protagonizado por Luciano Amaral, mostrado originalmente entre 6 de outubro de 1991 e 27 de setembro de 1992, totalizando 52 episódios."
+      },
+      {
+        "image": "https://media.giphy.com/media/xT1R9HgPldnxXsolu8/giphy.gif",
+        "title": "Qual o nome da menina que Doug é apaixonado?",
+        "description": "Dica: O nome dela tem a ver com comida",
+        "answer": 3,
+        "alternatives": [
+           "Patty Maionese",
+           "Paty Mortadela",
+           "Taty Maionese",
+           "Paty Maionese"
+        ],
+        "infoGif": "https://media.giphy.com/media/ZPgF48o0CfFmw/giphy.gif",
+        "information": "Patrícia \"Patti\" Mayonnaise: É a melhor amiga de Doug, que é secretamente apaixonado por ela desde seu primeiro encontro com ela. Inteligente, comportada e alegre. Em certos episódios, parece corresponder à paixão de Doug."
+      },
+      {
+        "image": "https://media.giphy.com/media/YRtXHgQZ3NqvU4wJr9/giphy.gif",
+        "title": "Qual o nome do vilão de CyberChase?",
+        "description": "Dica: É relacionado com computador, internet",
+        "answer": 2,
+        "alternatives": [
+           "Tróia",
+           "Virus",
+           "Hacker",
+           "Bug"
+        ],
+        "infoGif": "https://thumbs.gfycat.com/HomelyDemandingFoxhound-max-1mb.gif",
+        "information": "Hacker é o principal antagonista geral do Cyberchase. Arqui-inimigo da Placa-Mãe, Hacker planeja tomar o controle do ciberespaço. Para este fim, ele infectou a placa-mãe com um vírus."
+      },
+      {
+        "image": "https://thumbs.gfycat.com/TalkativeFearlessFrenchbulldog-max-1mb.gif",
+        "title": "Qual a frase que é dita nessa cena?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Senta que lá vem a aventura",
+           "Atenção que lá vem a historia",
+           "Olha que lá vem a crônica",
+           "Senta que lá vem a historia"
+        ],
+        "infoGif": "https://tenor.com/view/ratimbum-parab%c3%a9ns-tv-cultura-r%c3%a1timbum-gif-17544456.gif",
+        "information": "Nada melhor para representar o programa Rá-Tim-Bum do que o famoso “senta que lá vem a história” que é falado até hoje. Rá-Tim-Bum trazia diversos quadros que mesclavam conteúdo educacional com entretenimento infantil, como: história mundial, ecologia, cidadania, português, matemática e filosofia,etc."
+      },
+      {
+        "image": "https://media.giphy.com/media/bizTiRolpk60o/giphy.gif",
+        "title": "Quantos anos o Caillou tem?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "4",
+           "6",
+           "5",
+           "7"
+        ],
+        "infoGif": "https://tenor.com/view/caillou-caillou-cartoon-drums-music-making-music-gif-12534080.gif",
+        "information": "Eu tenho só 4 anos... essa abertura marcante do desenho que conta as aventuras de um menino curioso de quatro anos que tem amigos imaginários, pratica esportes e explora a natureza."
+      },
+      {
+        "image": "https://media.giphy.com/media/TIJYPPevcKae4/giphy.gif",
+        "title": "Qual animal o Zoboomafoo é?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Quati",
+           "Lêmure",
+           "Macaco",
+           "Coruja"
+        ],
+        "infoGif": "https://i.pinimg.com/originals/f7/c4/d2/f7c4d2eeac3f687cbd4894c31f6d829b.gif",
+        "information": "Eu,você e o zoboomafoo!!! Eu sei que você cantou na cabeça. Como não esquecer de Zoboomafoo, afinal? Um lêmure saltitante muito engraçado e que junto com os irmão Chris e Martin eles descobriam mais sobre os animais."
+      },
+      {
+        "image": "https://media.giphy.com/media/xlkHLmq9xHzVRSGK9q/giphy.gif",
+        "title": "Qual o nome dessa menina?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Mika",
+           "Tika",
+           "Maria",
+           "Kika"
+        ],
+        "infoGif": "https://media.giphy.com/media/mzGxmMK1p9oaA2J9iK/giphy.gif",
+        "information": "Kika é uma garota de 6 anos que como todas as crianças da sua idade, é muito curiosa.E descubra as respostas para as mais intrigantes questões."
+      },
+      {
+        "image": "https://i.pinimg.com/originals/8f/dc/f6/8fdcf693310de97bf1f3cc96e1981eeb.gif",
+        "title": "Qual o nome da irmã do Pingu?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Pongi",
+           "Pinga",
+           "Punky",
+           "Pingi"
+        ],
+        "infoGif": "https://i.pinimg.com/originals/8c/e2/32/8ce232418a30762abc52c4bcb5a114cb.gif",
+        "information": "Pingu, um pinguim que mora no pólo norte com sua mãe, seu pai e sua irmãzinha. Acompanhamos sua vida, fazendo amigos e vendo seu desenvolvimento."
+      }
+
+    ],
+    "external": [
+      "https://aluraquiz-css.omariosouto.vercel.app",
+      "https://aluraquiz-marvel.omariosouto.vercel.app"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#2D7DD2",
+        "secondary": "#2196f3",
+        "mainBg": "#2c387e",
+        "contrastText": "#fff",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
+
